@@ -47,8 +47,8 @@ BRUCKET is a simple, interactive cricket game that you can play in your browser.
 
 ## Credits
 
-* Game developed by [Your Name/GitHub Username]
+* Game developed by Maheshwara Shastri
 
 ## License
 
-* [Choose a license](https://choosealicense.com/) (e.g., MIT License)
+* [notyet) (e.g., MIT License)
